@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2",
+  "versionCode": 23,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/razrabator-as/myapp-updates-naderevne/releases/latest/download/app-debug.apk",
-  "sha256": "a013008f982f7510f3eb94b7d9132e6a192f1088680dd5557ef3ff22d0f42623",
-  "notes": "test"
+  "sha256": "52c679e1424236bdaa4b1f29ded273bb919e87514a7200bb6cef9dad73737bfd",
+  "notes": "Исправление ошибок"
 }
