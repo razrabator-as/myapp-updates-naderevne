@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/razrabator-as/myapp-updates-naderevne/releases/latest/download/app-debug.apk",
-  "sha256": "330f8b055623b1457d2e9121c48ea1b1d663a5198ba06dc7bbf4cfa8aa80cd66",
-  "notes": "Новый раздел «Улей-лежак: чертёж и сборка» (Справочник → Ульи → Лежак). Открывается кнопкой «Чертёж и сборка улья» вверху страницы «Лежак», картинкой лежака в правом верхнем углу этой страницы и картинкой слева у строки «Лежак» в списке ульев."
+  "versionCode": 53,
+  "versionName": "2.3",
+  "apkUrl": "https://raw.githubusercontent.com/razrabator-as/myapp-updates-naderevne/main/naderevne/app-debug.apk",
+  "sha256": "0e38ed24837ef2bd3d321aedabd89ff801dc151c73148bedd6a2294e2966995d",
+  "notes": "Улучшение приложения"
 }
